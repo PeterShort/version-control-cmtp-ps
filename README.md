@@ -113,3 +113,7 @@ Editing README.md file for capstone2 question 3
 # Capstone2 Question3 repeat
 
 Adding another line for second commits
+
+# Capstone2 Question3 third repeat
+
+Adding third comment for commit
